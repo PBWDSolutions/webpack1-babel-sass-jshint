@@ -51,9 +51,9 @@
 	__webpack_require__(1);
 	__webpack_require__(3);
 
-	var name = "Paul";
+	var author = "Paul";
 
-	console.log(name);
+	console.log(author);
 
 /***/ },
 /* 1 */

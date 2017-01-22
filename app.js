@@ -3,6 +3,6 @@
 require('./styles.scss');
 require("./main.js");
 
-const name = "Paul";
+const author = "Paul";
 
-console.log(name);
+console.log(author);
