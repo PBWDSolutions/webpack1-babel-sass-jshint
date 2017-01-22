@@ -6,4 +6,12 @@ your js files will be run through JSHint
 
 Bable is used to convert any ES6 code to ES2015.
 
+cd into the main directory 
+
+run npm install
+
+run webpack to build
+
+add -p flag to compress your js files.
+
 Thanks Paul
